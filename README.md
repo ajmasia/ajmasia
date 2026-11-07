@@ -17,7 +17,7 @@ Today I'm a Software Engineer at [Genially](https://genially.com), where I care 
 
 I practice **agentic engineering**: designing workflows where AI agents do real work alongside me, from code to infrastructure.
 
-### 🧰 Stack
+### Stack
 
 **Languages**
 
@@ -46,6 +46,15 @@ I practice **agentic engineering**: designing workflows where AI agents do real 
 ![LLM apps](https://img.shields.io/badge/LLM_apps-1F2937?style=flat-square&logo=python&logoColor=white)
 ![AI agents](https://img.shields.io/badge/AI_agents-1F2937?style=flat-square&logo=probot&logoColor=white)
 
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+
 **Systems**
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
@@ -58,12 +67,8 @@ I practice **agentic engineering**: designing workflows where AI agents do real 
 ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
 
-### 🧪 Lab
+### Lab
 
 Experiments, tools and side projects, tagged with the `lab` topic. A few highlights:
-
-- **[shellify](https://github.com/ajmasia/shellify)** — manage development workspace sessions with terminal multiplexers.
-- **[gnome-shell-extension-zsa-helper](https://github.com/ajmasia/gnome-shell-extension-zsa-helper)** — a floating overlay that shows the active layer of your ZSA Voyager in GNOME, to help you learn and memorize your keyboard layout.
-- **[macos-us-altgr-intl](https://github.com/ajmasia/macos-us-altgr-intl)** — a macOS keyboard layout matching Debian's `us(altgr-intl)`, with no dead keys, so typing feels the same on Linux and Mac.
 
 👉 [Browse the lab](https://github.com/search?q=user%3Aajmasia+topic%3Alab&type=repositories)
