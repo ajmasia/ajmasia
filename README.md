@@ -37,6 +37,14 @@ I practice **agentic engineering**: designing workflows where AI agents do real 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![LLM apps](https://img.shields.io/badge/LLM_apps-1F2937?style=flat-square&logo=python&logoColor=white)
+![AI agents](https://img.shields.io/badge/AI_agents-1F2937?style=flat-square&logo=probot&logoColor=white)
 
 **Systems**
 
@@ -48,9 +56,14 @@ I practice **agentic engineering**: designing workflows where AI agents do real 
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
 
 ### 🧪 Lab
 
-Experiments, tools and side projects, tagged with the `lab` topic. Many of them belong to the `-ify` family, like [shellify](https://github.com/ajmasia/shellify) and [dotlify](https://github.com/ajmasia/dotlify): small tools I build because I need them.
+Experiments, tools and side projects, tagged with the `lab` topic. A few highlights:
+
+- **[shellify](https://github.com/ajmasia/shellify)** — manage development workspace sessions with terminal multiplexers.
+- **[gnome-shell-extension-zsa-helper](https://github.com/ajmasia/gnome-shell-extension-zsa-helper)** — a floating overlay that shows the active layer of your ZSA Voyager in GNOME, to help you learn and memorize your keyboard layout.
+- **[macos-us-altgr-intl](https://github.com/ajmasia/macos-us-altgr-intl)** — a macOS keyboard layout matching Debian's `us(altgr-intl)`, with no dead keys, so typing feels the same on Linux and Mac.
 
 👉 [Browse the lab](https://github.com/search?q=user%3Aajmasia+topic%3Alab&type=repositories)
